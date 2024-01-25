@@ -1,0 +1,12 @@
+1. Structural elements have a specific strucural use to them. Those elements have certain properties regarding
+   how they interact with the document as a whole that would make a developer choose them specifically when building a page.
+   Semantic elements have no specific structural uniqueness to them, but only are used to convey certain meaning to search engines
+   accessibility tools.
+
+2. It can increase performance within the web browser and enhance accessibility tools.
+
+3. A form is a wrapper for input fields and buttons which can be used
+   to submit or receive data through HTTP requests upon submitting the form.
+
+4. Block elements start on a new line, taking up the entire line. Inline elements stay on the same
+   line and only take up as much space as is needed.

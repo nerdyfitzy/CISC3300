@@ -1,0 +1,26 @@
+.flex-c {
+  display: flex;
+  flex-direction: column;
+}
+
+#img1 {
+  height: 250px;
+  width: 400px;
+}
+
+#img2 {
+  height: 250px;
+  width: 400px;
+}
+
+#tb {
+  margin-bottom: 15px;
+}
+
+.fb {
+  font-weight: bold;
+}
+
+.fl {
+  font-size: larger;
+}
