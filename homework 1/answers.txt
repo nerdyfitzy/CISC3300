@@ -1,0 +1,12 @@
+1. The URL routes the user to a DNS
+2. HTML (hypertext markup language) is a language used for creating webpages.
+   It is chiefly concerned with the structural design of the page, only consisting of elements
+   that have certain attributes and uses.
+3. The page has a list of menu items on the top, showing that they are core tools to
+   using the website and can help navigation. Additionally, the top left has a Fordham
+   logo to show the user where they are, and the blocking of the site shows separate main events
+   taking place within the school.
+4. An HTML element is what every HTML page is comprised of, it is denoted by <> signs with a name inside and has a specific
+   purpose and usage related to SEO, user interaction, or organization. 
+   A tag is the <> with the name inside that denotes what the element is, and the attributes are certain
+   values assigned to a certain element (src for an img element or, more generally, the id and class attributes).

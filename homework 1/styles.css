@@ -1,0 +1,13 @@
+.flex-c {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.font-med {
+  font-size: large;
+}
+
+.m-s {
+  margin-bottom: 4px;
+}
