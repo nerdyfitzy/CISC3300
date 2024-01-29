@@ -1,4 +1,6 @@
-1. The URL routes the user to a DNS
+1. The URL routes the user to a DNS (domain name system) server through the user's ISP (internet service provider).
+   The DNS server then gives the IP to the user's browser,
+   which allows the user to communicate with the server (and website) in its entirety.
 2. HTML (hypertext markup language) is a language used for creating webpages.
    It is chiefly concerned with the structural design of the page, only consisting of elements
    that have certain attributes and uses.
