@@ -1,0 +1,46 @@
+/* for question 1 */
+
+text {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+.color-class {
+  color: purple;
+}
+
+#color-id {
+  color: green;
+}
+
+.color-class > p {
+  color: cyan;
+}
+
+.color-class span {
+  color: yellow;
+}
+
+.color-class ~ span {
+  color: pink;
+}
+
+div:is(.color-class) ~ * {
+  color: navy;
+}
+
+/* for question 2 */
+
+@font-face {
+  font-family: protestStrike;
+  src: url(ProtestStrike-Regular.ttf);
+}
+
+h1 {
+  font-family: protestStrike;
+  background-color: #195524bd;
+  color: #c36b439b;
+}

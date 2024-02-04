@@ -1,0 +1,9 @@
+3. margin: The amount of space around the outside of an element in which no content is rendered.
+   padding: The amount of "dead space" set within the boundaries of an element in which no content is rendered.
+   border: A rendered visualization of the outside of a certain element. Essentially a traced line around the outside of the element.
+
+4. display: flex; is the initial declaration to create a flex element. No other flex-related rules work for children of a certain element without this declaration.
+   flex-direction defines whether or not the flexbox will work in columns or rows, and reverse or not. It defines how/in what order the items within a flexbox will be placed (either vertically or horizontally, forwards or backwards)
+   flex-wrap defines whether or not flex content will wrap around to another line if it overflows the container.
+   justify-content defines where the items within the flexbox start in relation to the main axis defined through flex-direction. align-items has the same usage but for the secondary axis.
+   align-content places the flex lines themselves within the container. 
