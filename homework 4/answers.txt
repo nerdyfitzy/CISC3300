@@ -1,0 +1,15 @@
+1. Javascript is a scripting language ran in browsers that allows
+   for more interactive web pages. An interpreted language does not
+   check variable types and reassignments before runtime, and therefore
+   allows for more dynamic memory reassignment at runtime.
+
+2. const declares a constant, unchangable variable in the local scope
+   var declares a mutable variable at the global scope and is largely unused in current JS 
+   let declares a mutable variable at the local scope and is the best practice for defining mutable variables
+
+3. An anonymous function in javascript is a function used as an argument for another funcion, they often act as callbacks
+   to mimic synchronus tasks in the language.
+   A higher order function is a function that takes functions as parameters or returns another function.
+
+4. Javascript objects are just key value pairs instead of OOP objects that are a collection of member variables and functions.
+
