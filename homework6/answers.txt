@@ -1,0 +1,19 @@
+1. HTTP (hyper text transfer protocol) is a method for transfering data across the internet
+   through requests and responses. The methods are:
+    GET - simple request for getting the contents of a page, and just issues a response.
+    POST - used to send data to a specific resource
+    PUT - used to update everything related to a given resource
+    DELETE - deletes a resource
+    PATCH - changes only certain parts of a resource
+2. An API (application programming interface) is usually an interface that can be interacted with
+   through HTTP requests to receive/send data. It can also refer to offline interfaces, however,
+   such as collections of classes/functions for an outside package.
+   JSON is javascript object notation and just acts as a standard way to send and parse data with HTTP.
+   Javascript contains the JSON object which has functions to parse, stringify, and navigate JSON.
+
+3. AJAX (asynchronus javascript and XML) is a part of javascript that uses the built in XMLHTTPRequest
+   to affect the DOM.
+
+
+    
+   
