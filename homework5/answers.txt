@@ -1,0 +1,10 @@
+4. The DOM (document object model) is a tree of the entire page, including 
+   all elements, styles, attributes, events, and etc. It allows JS to interact with
+   and change any given aspect of a page through an object structure.
+
+5. XSS (cross-site scripting) attacks are carried out by someone attempting to execute
+   outside code on a website, often through direct user input encased
+   in <script> tags that will be embedded in innerHTML. User input should never be trusted and
+   should always be sanitized to prevent any input from being ran as direct HTML.
+
+

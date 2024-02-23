@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>homework 5</title>
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <button id="color-btn">change color</button>
+    <ul>
+      <li>one</li>
+      <li>two</li>
+      <li>three</li>
+      <li>four</li>
+      <li>five</li>
+    </ul>
+
+    <div id="pd">
+      <button id="p-btn">div button to add paragraph</button>
+    </div>
+    <script>
+      $("#color-btn").on("click", (e) => {
+        $("li").addClass("blue");
+      });
+
+      $("#p-btn").on("click", (e) => {
+        console.log("c");
+        $("#pd").after(`<p>SOME TEXT HERE</p>`);
+      });
+    </script>
+  </body>
+</html>
