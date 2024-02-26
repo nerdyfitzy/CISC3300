@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <button id="btn-2">change color of this text</button>
     <button id="color-btn">change color</button>
     <ul>
       <li>one</li>
@@ -30,6 +31,9 @@
       $("#p-btn").on("click", (e) => {
         console.log("c");
         $("#pd").after(`<p>SOME TEXT HERE</p>`);
+      });
+      $("#btn-2").on("click", (e) => {
+        $("#btn-2").addClass("blue");
       });
     </script>
   </body>
