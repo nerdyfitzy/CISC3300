@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "got": "^14.2.0",
-    "jquery": "^3.7.1",
     "json-server": "^1.0.0-alpha.23"
   },
   "devDependencies": {},
