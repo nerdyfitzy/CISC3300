@@ -28,5 +28,3 @@ const Put = async () => {
 
   console.log("Putting complete ", statusCode);
 };
-
-Post();
