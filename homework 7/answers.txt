@@ -1,0 +1,8 @@
+2. PHP and JS both can deal with outgoing and incoming requests, and they both can act as
+   languages to add dynamic functionality to HTML on a webpage. JS is more robust, however,
+   and has more different outside packages than PHP that allow the language to work even
+   without a browser.
+
+3. MVC (model-view-controller) is a framework for designing applications that splits the
+   larger project into three smaller parts that all interact with each other. The view
+   is the UI, the controller is the logic behind it, and the model is the backend data.
