@@ -1,0 +1,16 @@
+1. Escaping data is using escape characters to defend against malicious code injection attacks.
+   It is often done by putting a \ to prevent a language interpreting certain characters (such as ")
+   incorrectly.
+
+2. A RESTful API is one which the client and the server are implemented independently.
+   Both the client and server can be changed and modified without affecting the other whatsoever.
+   Statelessness is a key component of RESTful APIs, and it refers to both the client and server
+   being able to interpret any message sent between the two regardless of the state either are in.
+   A resource is a general word for a "thing" sent through the internet, whether that be an "image, document, or object"
+
+3. A cookie is a part of the document usually assigned by the server. They are often used
+   to track usage by a certain browser, and allow for a server to discern between different clients.
+
+4. A session is what a server uses to track a given user. When a new user enters a website,
+   the server returns a "session" to discern that specific user.
+
