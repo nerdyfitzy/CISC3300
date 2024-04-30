@@ -13,7 +13,7 @@ class PostController extends Controller
 
         $template = $this->twig->load('posts/posts.twig');
         $homepageData = [
-            'posts' => $postModel->getAllPosts();
+            'posts' => $postModel->getAllPosts(),
         ];
         echo $template->render($homepageData);
     }
