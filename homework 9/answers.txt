@@ -1,0 +1,8 @@
+1. SQL is a database system based on the relational database model.
+   Each database contains a collection of tables which can reference each other
+   and interact with each other in order to create relations between data.
+
+4. A PHP PDO is a built in way of accessing and interacting with databases
+   through the language. Prepared statements are necessary to avoid SQL injection
+   attacks where a user inputting data could input an SQL statement that could access
+   or mutate sensitive user data.
